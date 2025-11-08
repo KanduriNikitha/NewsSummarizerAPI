@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+env/
+venv/
+
+# AWS credentials or config
+*.env
+.aws/
+
+# IDE files
+.vscode/
+.idea/
